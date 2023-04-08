@@ -1,0 +1,58 @@
+/**
+* @name sayklikzTheme v2
+* @version ☺☺☺☺
+* @description Solid dark theme for Discord by soshok51
+* @author soshok51 (сошок51#4496)
+* @invite YmknjvwZeV
+* @website https://vk.com/soshok51
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates');
+:root {
+--background-image: url('https://i.imgur.com/ppGuom3.png');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/VPtEXJI.png');
+--popout-modal-blur: 0px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-mage: url('https://i.imgur.com/slyHcKh.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.9;
+--left-brightness: 0.9;
+--middle-brightness: 0.9;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 0,0,0;
+--gradient-secondary: 5,5,5;
+--gradient-direction: 250deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Montserrat Alternates';
+--update-notice-1: none;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 50px;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 2px;
+--rs-avatar-shape: 20%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
